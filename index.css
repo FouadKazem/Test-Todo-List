@@ -180,6 +180,7 @@ main > #main-add-task-btn {
 }
 * {
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
     /* color: #292522; */
 }
 
